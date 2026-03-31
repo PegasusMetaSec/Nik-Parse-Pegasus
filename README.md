@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Nik+Parse+Pegasus;High-Performance+Parser;Lightning+Fast+%7C+Modern+%7C+Elegant" alt="Typing SVG" />
+ ![WhatsApp Image 2026-04-01 at 01 05 04](https://github.com/user-attachments/assets/4ea42bdd-bb09-4a0b-8d26-5b2b26c1d363)
+
   
   <br/>
   <br/>
