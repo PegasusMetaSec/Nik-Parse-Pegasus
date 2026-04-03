@@ -55,6 +55,7 @@ pip install nik-parse-pegasus
 
 # Using poetry (recommended)
 poetry add nik-parse-pegasus
+python nik.py -n 61xxxxxxxx
 
 # From source
 git clone https://github.com/yourusername/nik-parse-pegasus.git
