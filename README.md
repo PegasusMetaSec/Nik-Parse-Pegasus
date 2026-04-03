@@ -32,7 +32,7 @@
 
 **Nik Parse Pegasus** is a high-performance, lightweight parsing engine built for modern data extraction. Whether you're handling complex nested structures, log files, or custom DSLs, Pegasus delivers **blazing speed** with an elegant developer experience.
 
-> *"Soar through your data with the wings of Pegasus."*
+<img width="1912" height="796" alt="Screenshot 2026-04-04 025021" src="https://github.com/user-attachments/assets/fc56394b-e5e9-4179-8fd7-f46f58a37fc1" />
 
 ### ✨ Features
 
